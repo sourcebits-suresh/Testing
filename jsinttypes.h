@@ -130,6 +130,9 @@ typedef uintptr_t JSUintPtr;
 typedef intptr_t JSIntPtr;
 typedef uintptr_t JSUintPtr;
 
+hi
+
+
 /* Failing that, the configure script will have found something.  */
 #elif defined(JS_INTPTR_TYPE)
 typedef signed   JS_INTPTR_TYPE JSIntPtr;
